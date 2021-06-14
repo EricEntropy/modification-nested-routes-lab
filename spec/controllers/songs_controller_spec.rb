@@ -1,5 +1,5 @@
 require 'rails_helper'
-
+system('clear')
 RSpec.describe SongsController do
 
   before do
